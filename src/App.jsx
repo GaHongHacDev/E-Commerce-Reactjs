@@ -1,12 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import { useState } from 'react';
+import reactLogo from './assets/react.svg';
+import './App.css';
 
 function App() {
-
-  return (
-    <div>Ecommerce</div>
-  )
+    return (
+        <div>
+            <h3>ABCS</h3>
+            Ecommerce
+        </div>
+    );
 }
 
-export default App
+export default App;
